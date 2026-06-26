@@ -717,6 +717,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 var _indexScss = require("../styles/index.scss");
 'use strict';
 
-},{"../styles/index.scss":"aSOSS"}],"aSOSS":[function() {},{}]},["huHYX","3Aj1C"], "3Aj1C", "parcelRequire45d2", {})
+},{"../styles/index.scss":"aSOSS"}],"aSOSS":[function() {},{}]},["huHYX","3Aj1C"], "3Aj1C", "parcelRequire4473", {})
 
 //# sourceMappingURL=responsive-landing-page.4841ef46.js.map
