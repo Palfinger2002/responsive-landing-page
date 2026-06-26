@@ -13,12 +13,12 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Tysiachnyk/Stellar-Pulse-Landing-Page.git
+    git clone https://github.com/Palfinger2002/responsive-landing-page.git
     ```
 
 2.  **Navigate to the project folder:**
     ```bash
-    cd Stellar-Pulse-Landing-Page
+    cd responsie-landing-page
     ```
 
 3.  **Install dependencies** (for SCSS compilation and Stylelint):
